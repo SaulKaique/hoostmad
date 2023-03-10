@@ -1,0 +1,75 @@
+@import url(https://fonts.googleapis.com/css2?family=Rampart+One&family=Rubik+Mono+One&display=swap);
+
+*{
+margin: 0;
+padding: 0;
+
+}
+
+.nav_tabs{
+    width: 200px;
+    height: 15px;
+    margin: 5px 100px  1000px auto;
+    background-color: #1bae1b;
+    position: relative;
+}
+
+
+.nav_tabs ul{
+    list-style: none;
+}
+
+
+
+.nav_tabs ul li{
+
+float: left; 
+}
+
+.nav_tabs{
+
+width: 200px;
+padding: 200px;
+background-image: linear-gradient(to bottom, #00a000 20% , #fff 50%);
+display: block;
+color: #0b0b0b;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+html{
+
+height: 100%;
+}
+
+body{
+background-image: linear-gradient(to bottom, #00a000 20%, #ffffff 50% );
+}
+
+h1{
+    font-family: 'Rubik Mono One', sans-serif;
+    text-align: center;
+   
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #dbe3db;
+    display: flex;
+   padding: 10px;
+    margin: 1px 300px 40px 30px;
+
+
+}
